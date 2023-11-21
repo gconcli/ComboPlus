@@ -96,3 +96,36 @@ body {
     font-weight: 400;
     font-size: 1em;
 }
+
+.apresentacao__imagem__terciario {
+    width: 40%;
+}
+
+.apresentacao__terciaria {
+    align-items: center;
+    display: flex;
+    margin: 10em 10em;
+}
+
+.apresentacao__conteudo__terciario {
+    margin-right: 8em;
+}
+
+.apresentacao__paragrafo__terciario {
+    margin-bottom: 2em;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1em;
+    opacity: 80%;
+}
+
+.apresentacao__botao__terciario {
+    font-family: var(--font-family);
+    color: var(--cor-primario);
+    background-color: var(--cor-terciario);
+    border-radius: 0.5em;
+    padding: 1em;
+    font-weight: 400;
+    font-size: 1em;
+    text-decoration: none;
+}
