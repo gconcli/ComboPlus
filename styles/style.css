@@ -91,10 +91,11 @@ body {
     font-size: 2.5em;
 }
 
-.apresentacao__pagrafo__secundario {
+.apresentacao__paragrafo__secundario {
     font-family: var(--font-family);
     font-weight: 400;
     font-size: 1em;
+    opacity: 80%;
 }
 
 .apresentacao__imagem__terciario {
@@ -128,4 +129,28 @@ body {
     font-weight: 400;
     font-size: 1em;
     text-decoration: none;
+}
+
+.apresentacao__quartenaria {
+    align-items: center;
+    display: flex;
+    margin: 0 10em;
+}
+
+.apresentacao__conteudo__quartenario {
+    margin-left: 2em;
+}
+
+.apresentacao__titulo__quartenario {
+    margin-bottom: 0.2em;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 2.5em;
+}
+
+.apresentacao__paragrafo__quartenario {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1em;
+    opacity: 80%;
 }
