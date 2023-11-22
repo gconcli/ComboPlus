@@ -165,3 +165,7 @@ body {
     font-size: 0.75em;
     opacity: 80%;
 }
+
+.lista__dispositivos {
+    display: flex;
+}
