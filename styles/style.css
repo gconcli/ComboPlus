@@ -175,3 +175,7 @@ body {
 .dispositivos {
     text-align: center;
 }
+
+.títilo__icones {
+    font-family: var(--font-family);
+}
