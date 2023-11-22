@@ -169,6 +169,7 @@ body {
 .lista__dispositivos {
     display: flex;
     justify-content: center;
+    list-style-type: none;
 }
 
 .dispositivos {
