@@ -45,6 +45,10 @@ body {
     margin-bottom: 1em;
 }
 
+.apresentacao__conteudo__botoes:hover {
+    background-color: #0a63cf;
+}
+
 .apresentacao__conteudo__botoes__2 {
     background-color: transparent;
     border: 1px solid var(--cor-primario);
