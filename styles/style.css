@@ -182,6 +182,14 @@ body {
     text-decoration: none;
 }
 
+.rodape__links__topico:hover {
+    color: var(--cor-terciario);
+}
+
+.rodape__links__topico:active {
+    color: var(--cor-secundario);
+}
+
 .rodape__conteudo {
     font-size: 0.60em;
 }
