@@ -135,6 +135,10 @@ body {
     text-decoration: none;
 }
 
+.apresentacao__botao__terciario:hover {
+    background-color: #0a63cf;
+}
+
 .lista__dispositivos {
     display: flex;
     justify-content: center;
